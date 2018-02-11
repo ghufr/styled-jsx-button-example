@@ -1,0 +1,16 @@
+{
+  "name": "next-styled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ghufron",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
